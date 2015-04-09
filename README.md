@@ -27,7 +27,7 @@ Code written by authors is released under LGPLv3.
 Acknowledgements
 ----------------
 Font Awesome by Dave Gandy - http://fontawesome.io  
-Camera pictogram by Libberry - https://openclipart.org/user-detail/libberry
+Camera pictogram by Libberry - https://openclipart.org/user-detail/libberry  
 Darkorange QStylesheet by Yasin Uludag (LoneWolf)
 
 Requirements
